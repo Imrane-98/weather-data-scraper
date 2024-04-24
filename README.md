@@ -1,5 +1,5 @@
 # weather-data-scraper<br>
-This Python script scrapes weather forecast data from the National Weather Service website. Using BeautifulSoup for HTML parsing and requests for HTTP requests, it extracts seven-day forecasts (period names, short descriptions, temperatures) and stores them in a CSV file for analysis or visualization.<br>
+This Python script scrapes seven-day weather forecasts from the National Weather Service website. It uses BeautifulSoup to parse HTML and requests for HTTP requests to extract data, storing the forecast information in a CSV file for further analysis or visualization.
 
 Features:
 
